@@ -1,4 +1,4 @@
-# Text-Generator
+# Multimodal Text Generation and Representation
 ## Project Overview
 This project explores different computational representations of visual and semantic information by constructing and comparing three types of model-based representations: visual, visual-text, and abstract-text.
 
@@ -6,6 +6,8 @@ Visual representations were extracted from images using the CLIP model, while te
 
 
 ## How to Run the Project
-1. Start by running the txt_generator.py file to generate the visual descriptions.  
-2. Next, run best_clip.py to save the visual descriptions with the best clip score from all 10 iterations.  
-3. Finally, run best_brain_corr.py to calculate the correlations between all the DNNs and the brain data.
+An API key is required to run the text generation component.
+1. Set the API key as an environment variable or replace the placeholder in `txt_generator.py`.
+2. Run `txt_generator.py` to generate visual textual descriptions.
+3. Run `best_clip.py` to select the descriptions with the highest CLIP score across iterations.
+4. Run `best_brain_corr.py` to compute correlations between model representations and brain data.
