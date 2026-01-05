@@ -1,0 +1,437 @@
+{
+  "1": {
+    "D_v": "An upright open hand with fingers spread against a white background.",
+    "clip_score": 0.3142959475517273,
+    "sgpt_extreme": null
+  },
+  "2": {
+    "D_v": "An ear with short, dark hair above it. Skin appears smooth and slightly shiny.",
+    "clip_score": 0.31828171014785767,
+    "sgpt_extreme": "min"
+  },
+  "3": {
+    "D_v": "A hand with slightly curled fingers against a plain white background.",
+    "clip_score": 0.3315795361995697,
+    "sgpt_extreme": null
+  },
+  "4": {
+    "D_v": "A person in a chef's uniform seen from the back, wearing a tall hat.",
+    "clip_score": 0.37555888295173645,
+    "sgpt_extreme": "max"
+  },
+  "5": {
+    "D_v": "A rounded form with thick, reddish-brown, fur-like covering.",
+    "clip_score": 0.3258221745491028,
+    "sgpt_extreme": "max"
+  },
+  "6": {
+    "D_v": "A person in a twirling motion, wearing a purple dress and black shoes.",
+    "clip_score": 0.3431411385536194,
+    "sgpt_extreme": "max"
+  },
+  "7": {
+    "D_v": "A person in profile wears a long dark dress and heeled shoes, gesturing.",
+    "clip_score": 0.34332969784736633,
+    "sgpt_extreme": null
+  },
+  "8": {
+    "D_v": "A hand makes a gesture with the pinky and index fingers extended.",
+    "clip_score": 0.31606629490852356,
+    "sgpt_extreme": null
+  },
+  "9": {
+    "D_v": "A zoom-in on an eye with a clear blue iris, natural brow, and soft makeup.",
+    "clip_score": 0.28922462463378906,
+    "sgpt_extreme": null
+  },
+  "10": {
+    "D_v": "A person in a blue coverall stands with one arm slightly extended, back facing.",
+    "clip_score": 0.3627813458442688,
+    "sgpt_extreme": null
+  },
+  "11": {
+    "D_v": "A hand with an extended index finger, pointing directly outward.",
+    "clip_score": 0.3006604313850403,
+    "sgpt_extreme": null
+  },
+  "12": {
+    "D_v": "A hand in a fist with the thumb over fingers, against a white background.",
+    "clip_score": 0.3488379120826721,
+    "sgpt_extreme": null
+  },
+  "13": {
+    "D_v": "A person with a shaved head looks sideways, slightly furrowed brows.",
+    "clip_score": 0.29203975200653076,
+    "sgpt_extreme": null
+  },
+  "14": {
+    "D_v": "A person with a big smile wears dark sunglasses and a blue collared shirt.",
+    "clip_score": 0.3044552206993103,
+    "sgpt_extreme": "min"
+  },
+  "15": {
+    "D_v": "A close-up of a smiling face in profile. Skin is smooth and glowing.",
+    "clip_score": 0.2971840500831604,
+    "sgpt_extreme": "max"
+  },
+  "17": {
+    "D_v": "A person with short dark hair and facial hair is looking directly ahead.",
+    "clip_score": 0.27841517329216003,
+    "sgpt_extreme": null
+  },
+  "18": {
+    "D_v": "A person with short, brown hair appears to be looking to the side. Their expression suggests curiosity or uncertainty. They're wearing a dark top and a subtle necklace. The background is plain white.",
+    "clip_score": 0.2932472825050354,
+    "sgpt_extreme": "max"
+  },
+  "20": {
+    "D_v": "Short, dark-haired individual with large, shiny eyewear.",
+    "clip_score": 0.2748887538909912,
+    "sgpt_extreme": "max"
+  },
+  "21": {
+    "D_v": "A young child makes a skeptical facial expression.",
+    "clip_score": 0.2995567321777344,
+    "sgpt_extreme": "max"
+  },
+  "25": {
+    "D_v": "A small, armadillo-like creature with a textured, segmented shell and a long, pointed snout, featuring short, sturdy legs and a tapering tail.",
+    "clip_score": 0.36565101146698,
+    "sgpt_extreme": "max"
+  },
+  "26": {
+    "D_v": "A camel with two humps and a thick, brown coat, facing left.",
+    "clip_score": 0.35553908348083496,
+    "sgpt_extreme": null
+  },
+  "27": {
+    "D_v": "A twisting green serpent with bright white markings along its length.",
+    "clip_score": 0.3551783859729767,
+    "sgpt_extreme": "min"
+  },
+  "28": {
+    "D_v": "A rustic, metal-textured silhouette of an animal in motion, with dynamic posture.",
+    "clip_score": 0.31445327401161194,
+    "sgpt_extreme": null
+  },
+  "29": {
+    "D_v": "A brown creature with a lengthy tail explores grassy terrain, gazing downward.",
+    "clip_score": 0.28585463762283325,
+    "sgpt_extreme": null
+  },
+  "30": {
+    "D_v": "A large bird with a long neck, dark feathers, and tall, pale legs.",
+    "clip_score": 0.3608573079109192,
+    "sgpt_extreme": null
+  },
+  "31": {
+    "D_v": "A snake with stripes in black, white, and orange, gracefully looped.",
+    "clip_score": 0.3682476282119751,
+    "sgpt_extreme": null
+  },
+  "32": {
+    "D_v": "A striped animal grazes calmly against a plain white backdrop.",
+    "clip_score": 0.3537658452987671,
+    "sgpt_extreme": null
+  },
+  "33": {
+    "D_v": "A large, textured animal with a long trunk, facing left, standing on four legs.",
+    "clip_score": 0.33831143379211426,
+    "sgpt_extreme": "min"
+  },
+  "34": {
+    "D_v": "A brown-furred animal sits with one arm extended, gazing at its fingers.",
+    "clip_score": 0.31425610184669495,
+    "sgpt_extreme": null
+  },
+  "35": {
+    "D_v": "A fluffy sheep with a cream-colored coat grazes on sparse grass.",
+    "clip_score": 0.3375510573387146,
+    "sgpt_extreme": null
+  },
+  "36": {
+    "D_v": "A textured, greenish-brown frog with splayed limbs on a white background.",
+    "clip_score": 0.356163889169693,
+    "sgpt_extreme": null
+  },
+  "37": {
+    "D_v": "A symmetrical front view of a cow's face, with textured fur and curved horns.",
+    "clip_score": 0.33806073665618896,
+    "sgpt_extreme": "max"
+  },
+  "38": {
+    "D_v": "A goat with prominent curved horns and pink-tinted ears.",
+    "clip_score": 0.3436641991138458,
+    "sgpt_extreme": "max"
+  },
+  "39": {
+    "D_v": "A monkey with its head tilted upwards, wearing a collar.",
+    "clip_score": 0.30110588669776917,
+    "sgpt_extreme": null
+  },
+  "40": {
+    "D_v": "A young primate with a dark face looks upward, mouth open in surprise.",
+    "clip_score": 0.29793882369995117,
+    "sgpt_extreme": null
+  },
+  "41": {
+    "D_v": "A German Shepherd with a tan and black coat and upright ears.",
+    "clip_score": 0.29612794518470764,
+    "sgpt_extreme": "max"
+  },
+  "42": {
+    "D_v": "A dog with tall pointed ears, sleek light brown coat, and long neck.",
+    "clip_score": 0.35627132654190063,
+    "sgpt_extreme": null
+  },
+  "43": {
+    "D_v": "A close-up of a baboon's face with a neutral expression.",
+    "clip_score": 0.30368340015411377,
+    "sgpt_extreme": "max"
+  },
+  "44": {
+    "D_v": "The image shows a monkey with thick, light brown fur and a vivid red face. The monkey's expression appears thoughtful or contemplative. The background is not visible, focusing solely on the primate's face and fur texture.",
+    "clip_score": 0.3315701186656952,
+    "sgpt_extreme": "max"
+  },
+  "45": {
+    "D_v": "The image shows a reptile's head with open jaws, revealing sharp teeth. Its skin is rough and textured, and it has a large, watchful eye. The background is plain white, emphasizing the reptile's distinctive features.",
+    "clip_score": 0.33848196268081665,
+    "sgpt_extreme": null
+  },
+  "46": {
+    "D_v": "A giraffe's head with prominent ossicones and detailed facial markings.",
+    "clip_score": 0.32317936420440674,
+    "sgpt_extreme": null
+  },
+  "47": {
+    "D_v": "A lion's face with textured fur, deep-set eyes, and a calm, regal expression.",
+    "clip_score": 0.29517388343811035,
+    "sgpt_extreme": null
+  },
+  "48": {
+    "D_v": "A small monkey with soft brown fur, large expressive eyes, and delicate features.",
+    "clip_score": 0.3085070252418518,
+    "sgpt_extreme": "max"
+  },
+  "49": {
+    "D_v": "Three vibrant orange carrots with lush green tops, arranged horizontally.",
+    "clip_score": 0.3539208769798279,
+    "sgpt_extreme": null
+  },
+  "50": {
+    "D_v": "A tightly clustered bunch of frosty, pinkish grapes with a natural sheen.",
+    "clip_score": 0.35887202620506287,
+    "sgpt_extreme": null
+  },
+  "51": {
+    "D_v": "A smooth, yellowish-brown potato with subtle dark spots and an elongated form.",
+    "clip_score": 0.3735342025756836,
+    "sgpt_extreme": "max"
+  },
+  "52": {
+    "D_v": "A cone-shaped bush in a garden with green grass and flowers.",
+    "clip_score": 0.3129512667655945,
+    "sgpt_extreme": "max"
+  },
+  "53": {
+    "D_v": "A glossy, curved red pepper with a smooth finish and a green stalk.",
+    "clip_score": 0.3288410007953644,
+    "sgpt_extreme": null
+  },
+  "54": {
+    "D_v": "A fresh, green leafy vegetable with elongated, crisp leaves.",
+    "clip_score": 0.3333966135978699,
+    "sgpt_extreme": "max"
+  },
+  "55": {
+    "D_v": "A circular, vibrant green slice with a pale center and tiny black seeds.",
+    "clip_score": 0.349362850189209,
+    "sgpt_extreme": null
+  },
+  "56": {
+    "D_v": "A green, cylindrical vegetable with a shiny, bumpy surface and pale end.",
+    "clip_score": 0.33444762229919434,
+    "sgpt_extreme": "max"
+  },
+  "57": {
+    "D_v": "A red leaf with a star-like shape, yellow veins, and jagged edges.",
+    "clip_score": 0.3303157687187195,
+    "sgpt_extreme": null
+  },
+  "58": {
+    "D_v": "An apple core with red skin on top and bottom, rough and partially eaten.",
+    "clip_score": 0.33576110005378723,
+    "sgpt_extreme": null
+  },
+  "59": {
+    "D_v": "A small, round red vegetable with attached green leafy stems.",
+    "clip_score": 0.3339027762413025,
+    "sgpt_extreme": null
+  },
+  "60": {
+    "D_v": "A glossy, dark purple vegetable with water droplets and a textured green top.",
+    "clip_score": 0.3507676124572754,
+    "sgpt_extreme": null
+  },
+  "61": {
+    "D_v": "A serene lake reflecting trees with autumn foliage and a bright blue sky.",
+    "clip_score": 0.3154245615005493,
+    "sgpt_extreme": null
+  },
+  "62": {
+    "D_v": "A dry, textured pine cone with overlapping, scaly layers and earthy tones.",
+    "clip_score": 0.3381892442703247,
+    "sgpt_extreme": null
+  },
+  "63": {
+    "D_v": "A bright yellow fruit with a curved shape and darkened tip.",
+    "clip_score": 0.3182717263698578,
+    "sgpt_extreme": null
+  },
+  "64": {
+    "D_v": "A vibrant red slice with radiating patterns and embedded seeds.",
+    "clip_score": 0.3203868269920349,
+    "sgpt_extreme": null
+  },
+  "65": {
+    "D_v": "A garlic bulb with papery, pale skin and a brown, textured stem.",
+    "clip_score": 0.33692604303359985,
+    "sgpt_extreme": "max"
+  },
+  "66": {
+    "D_v": "A rustic cabin with a tin roof, flanked by vibrant orange foliage.",
+    "clip_score": 0.31805938482284546,
+    "sgpt_extreme": null
+  },
+  "67": {
+    "D_v": "A lush, rounded tree with dense, glossy leaves and a dark shadow below.",
+    "clip_score": 0.3077239990234375,
+    "sgpt_extreme": null
+  },
+  "68": {
+    "D_v": "A pineapple with sharp green leaves and a textured, golden-yellow surface.",
+    "clip_score": 0.29655784368515015,
+    "sgpt_extreme": null
+  },
+  "69": {
+    "D_v": "A bright yellow fruit, pear-shaped, with a brown stem and light speckles.",
+    "clip_score": 0.34257203340530396,
+    "sgpt_extreme": "max"
+  },
+  "70": {
+    "D_v": "A smooth, shiny red pepper lies on a white background, with a green stem.",
+    "clip_score": 0.3435863256454468,
+    "sgpt_extreme": null
+  },
+  "71": {
+    "D_v": "Cascading water over rocks, framed by vibrant palm trees and clear sky.",
+    "clip_score": 0.3133150339126587,
+    "sgpt_extreme": null
+  },
+  "72": {
+    "D_v": "A cityscape with tall buildings, cranes, and lush greenery in front.",
+    "clip_score": 0.277163565158844,
+    "sgpt_extreme": null
+  },
+  "73": {
+    "D_v": "A small bottle with orange liquid, blue cap, and brownish nipple.",
+    "clip_score": 0.35836297273635864,
+    "sgpt_extreme": "max"
+  },
+  "74": {
+    "D_v": "A white incandescent light bulb with a metallic base.",
+    "clip_score": 0.31808778643608093,
+    "sgpt_extreme": "max"
+  },
+  "75": {
+    "D_v": "A blue circular sign with three bold white arrows creating a clockwise loop.",
+    "clip_score": 0.3790639042854309,
+    "sgpt_extreme": null
+  },
+  "76": {
+    "D_v": "A clear cassette tape with a white label, featuring red line accents.",
+    "clip_score": 0.3729802072048187,
+    "sgpt_extreme": null
+  },
+  "77": {
+    "D_v": "A tall church tower with a red roof against a clear blue sky.",
+    "clip_score": 0.24091407656669617,
+    "sgpt_extreme": "max"
+  },
+  "78": {
+    "D_v": "A white flag with a bright red circle, mounted on a golden spear pole.",
+    "clip_score": 0.3541133403778076,
+    "sgpt_extreme": "min"
+  },
+  "79": {
+    "D_v": "A shiny, brass-colored key with a rectangular head and jagged notches.",
+    "clip_score": 0.36682718992233276,
+    "sgpt_extreme": null
+  },
+  "80": {
+    "D_v": "A tool with bright red handles and a textured, dark metal head.",
+    "clip_score": 0.33117207884788513,
+    "sgpt_extreme": null
+  },
+  "81": {
+    "D_v": "A historic stone arch adorned with detailed carvings and decorative patterns.",
+    "clip_score": 0.33283531665802,
+    "sgpt_extreme": null
+  },
+  "82": {
+    "D_v": "A teal arched door with a decorative window and paneling on the sides.",
+    "clip_score": 0.3529430031776428,
+    "sgpt_extreme": null
+  },
+  "83": {
+    "D_v": "A hammer with a wooden handle and a black metal head, angled view.",
+    "clip_score": 0.33482539653778076,
+    "sgpt_extreme": null
+  },
+  "84": {
+    "D_v": "A maroon office chair with a cushioned seat, curved back, and adjustable base.",
+    "clip_score": 0.3586750030517578,
+    "sgpt_extreme": null
+  },
+  "85": {
+    "D_v": "An image of a black handgun with a textured grip and visible safety switch.",
+    "clip_score": 0.3119344413280487,
+    "sgpt_extreme": null
+  },
+  "86": {
+    "D_v": "A historic brick building with arched windows, glass facade, bench, and tree.",
+    "clip_score": 0.29229387640953064,
+    "sgpt_extreme": null
+  },
+  "87": {
+    "D_v": "A domed roof in rich blue with intricate gold details and a pointed tip.",
+    "clip_score": 0.3649064600467682,
+    "sgpt_extreme": null
+  },
+  "88": {
+    "D_v": "A black umbrella with a curved wooden handle, open and slightly tilted.",
+    "clip_score": 0.3293008804321289,
+    "sgpt_extreme": null
+  },
+  "89": {
+    "D_v": "A classic mobile phone with an antenna, small monochrome screen, and keypad.",
+    "clip_score": 0.3413737416267395,
+    "sgpt_extreme": "max"
+  },
+  "90": {
+    "D_v": "A brick house with gabled roof, arched windows, steps, and landscaped garden.",
+    "clip_score": 0.28056639432907104,
+    "sgpt_extreme": null
+  },
+  "91": {
+    "D_v": "A white stove with round black coil burners and a digital display panel.",
+    "clip_score": 0.3168300986289978,
+    "sgpt_extreme": null
+  },
+  "92": {
+    "D_v": "A sign displays a black arrow pointing up, overlaid by a red prohibition circle.",
+    "clip_score": 0.34486478567123413,
+    "sgpt_extreme": "max"
+  }
+}
